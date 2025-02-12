@@ -1,4 +1,6 @@
 # LATIS
+![image](https://github.com/user-attachments/assets/2c692e7a-9d72-49e4-afac-216685f1fa53)
+
 # StyleGAN Latent Space Explorer
 
 This program allows users to interactively traverse the latent space of StyleGAN networks and stream the generated visuals via Spout to other applications like TouchDesigner. The interaction is handled through OSC (Open Sound Control), enabling real-time control over key parameters such as X/Y coordinates, speed, Psi, and seed. This project is built upon the framework provided by NVIDIA for StyleGAN.
