@@ -20,6 +20,7 @@ This program allows users to interactively traverse the latent space of StyleGAN
 - pythonosc
 - PySpout (built and included in package)
 - NumPy, OpenCV, and other relevant dependencies
+- PySpout is built with VS code 2022, resulting in CUDA 12.1 or later and PyTorch 2.1 or later. I used CUDA 12.4 and PyTorch 2.5.1 so those should work.
 
 ## Usage
 1. Start the program:
